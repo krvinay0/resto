@@ -1,0 +1,11 @@
+.form-box{
+    width: 400px;
+    margin: 100px auto;
+    padding: 50px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px #ddd;
+}
+.form-box h2{
+    text-align: center;
+}   

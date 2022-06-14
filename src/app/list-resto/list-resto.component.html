@@ -1,0 +1,26 @@
+<div class="container">
+  <table class="table table-hover">
+    <tr>
+      <th scope="col">S.No</th>
+      <th scope="col">Name of Restaurant</th>
+      <th scope="col">Address</th>
+      <th scope="col">Email</th>
+      <th scope="col">Action</th>
+    </tr>
+
+    <tr *ngFor="let item of restolist">
+      <th scope="row">{{ item.id }}</th>
+      <td>{{ item.name }}</td>
+      <td>{{ item.address }}</td>
+      <td>{{ item.email }}</td>
+      <td>
+        <a routerLink="/update/{{ item.id }}">
+          <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+        </a>
+        <a routerLink="/delete/{{ item.id }}">
+          <i class="fa fa-trash text-danger" aria-hidden="true"></i>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>

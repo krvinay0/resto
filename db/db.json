@@ -1,0 +1,198 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "KFC restaurant",
+      "address": "noida sector 50",
+      "email": "admin@test.com",
+      "password": "123",
+      "type": "1" 
+      
+    },
+    {
+      "id": 2,
+      "name": "Prem Sweets restaurant",
+      "address": "gurugram sector 50",
+      "email": "user@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 3,
+      "name": "Kanha restaurant",
+      "address": "gaya sector 50",
+      "email": "kanha@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 4,
+      "name": "Sinha restaurant",
+      "address": "mumbai sector 50",
+      "email": "sinha@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 5,
+      "name": "Maharani restaurant",
+      "address": "noida sector 50",
+      "email": "maharani@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 6,
+      "name": "Kgf restaurant",
+      "address": "noida sector 50",
+      "email": "kfc@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "name": "Kgf restaurant",
+      "address": "noida sector 50",
+      "email": "kfc@test.com",
+      "password": "123",
+      "type": "0",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Govindas restaurant",
+      "address": "gurugram sector 50",
+      "email": "Premsweets@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 9,
+      "name": "KFC restaurant",
+      "address": "noida sector 50",
+      "email": "kfc@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 10,
+      "name": "Prem Sweets restaurant",
+      "address": "gurugram sector 50",
+      "email": "Premsweets@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 11,
+      "name": "Kanha restaurant",
+      "address": "gaya sector 50",
+      "email": "kanha@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 12,
+      "name": "Sinha restaurant",
+      "address": "mumbai sector 50",
+      "email": "sinha@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 13,
+      "name": "Maharani restaurant",
+      "address": "noida sector 50",
+      "email": "maharani@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "name": "Kgf restaurant",
+      "address": "noida sector 50",
+      "email": "kfc@test.com",
+      "password": "123",
+      "type": "0" ,
+      "id": 14
+    },
+    {
+      "name": "Kgf restaurant",
+      "address": "noida sector 50",
+      "email": "kfc@test.com",
+      "password": "123",
+      "type": "0" ,
+      "id": 15
+    },
+    {
+      "name": "Govindas restaurant",
+      "address": "gurugram sector 50",
+      "email": "Premsweets@test.com",
+      "password": "123",
+      "type": "0" ,
+      "id": 16
+    },
+    {
+      "id": 17,
+      "name": "KFC restaurant",
+      "address": "noida sector 50",
+      "email": "kfc@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 18,
+      "name": "Prem Sweets restaurant",
+      "address": "gurugram sector 50",
+      "email": "Premsweets@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 19,
+      "name": "Kanha restaurant",
+      "address": "gaya sector 50",
+      "email": "kanha@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 20,
+      "name": "Sinha restaurant",
+      "address": "mumbai sector 50",
+      "email": "sinha@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "id": 21,
+      "name": "Maharani restaurant",
+      "address": "noida sector 50",
+      "email": "maharani@test.com",
+      "password": "123",
+      "type": "0" 
+    },
+    {
+      "name": "Kgf restaurant",
+      "address": "noida sector 50",
+      "email": "kfc@test.com",
+      "password": "123",
+      "type": "0" ,
+      "id": 22
+    },
+    {
+      "name": "Kgf restaurant",
+      "address": "noida sector 50",
+      "email": "kfc@test.com",
+      "password": "123",
+      "type": "0",
+      "id": 23
+    },
+    {
+      "name": "Govindas restaurant",
+      "address": "gurugram sector 50",
+      "email": "Premsweets@test.com",
+      "password": "123",
+      "type": "0",
+      "id": 24
+    }
+  ]
+}
+
